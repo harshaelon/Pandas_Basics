@@ -16,6 +16,9 @@ What can be expected from this repo?
 4. Different Functions present in the pandas library.
 5.Examples.
 
+
+In the revision_panda file , i have computed different values based on marks such as grades, percentage, total marks. 
+And have stored them in the CSV file.
 Dataset taken : Student_marks.csv (Sample).
 
 ![image](https://github.com/harshaelon/Pandas_Basics/assets/128384441/1b3c95b1-01b6-4304-babd-828a2b38502c)
